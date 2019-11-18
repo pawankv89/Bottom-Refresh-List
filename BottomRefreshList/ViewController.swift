@@ -1,18 +1,10 @@
-# Bottom-Refresh-List
-
-## Bottom Refresh List when scroll down then get response by API.
-
-
-Added Some screens here.
-
-![](https://github.com/pawankv89/Bottom-Refresh-List/blob/master/images/screen_1.png)
-![](https://github.com/pawankv89/Bottom-Refresh-List/blob/master/images/screen_2.png)
-
-## Usage
-
-#### Controller
-
-``` swift 
+//
+//  ViewController.swift
+//  BottomRefreshList
+//
+//  Created by Pawan kumar on 27/12/18.
+//  Copyright © 2018 Pawan Kumar. All rights reserved.
+//
 
 import UIKit
 
@@ -156,17 +148,4 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         
     }
 }
-
-
-
-```
-
-
-## License
-
-This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-## Change-log
-
-A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
 
