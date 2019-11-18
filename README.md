@@ -7,6 +7,7 @@ Added Some screens here.
 
 ![](https://github.com/pawankv89/Bottom-Refresh-List/blob/master/images/screen_1.png)
 ![](https://github.com/pawankv89/Bottom-Refresh-List/blob/master/images/screen_2.png)
+![](https://github.com/pawankv89/Bottom-Refresh-List/blob/master/images/screen_3.png)
 
 ## Usage
 
